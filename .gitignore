@@ -23,7 +23,6 @@ Thumbs.db
 *.log
 
 # ---- Media / Outputs ----
-output/
 outputs/
 tmp/
 *.mp4
