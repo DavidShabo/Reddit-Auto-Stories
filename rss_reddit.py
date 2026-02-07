@@ -2,6 +2,7 @@ import re
 import time
 import feedparser
 import requests
+import os
 
 SUBREDDIT = "AmItheAsshole"   
 RSS_LIMIT = 20
@@ -75,13 +76,13 @@ def get_one_story():
 
     return None
 
-def save_story_txt(story: dict, path: str = "story.txt"):
+def save_story_txt(story: dict, path="output/story.txt"):
  
     with open(path, "w", encoding="utf-8") as f:
         f.write(story["title"].strip() + "\n\n")
         f.write(story["body"].strip())
 
-def save_story_meta(story: dict, path: str = "story_meta.txt"):
+def save_story_meta(story: dict, path="output/story_meta.txt"):
 
     with open(path, "w", encoding="utf-8") as f:
         f.write(f"id: {story['id']}\n")
@@ -89,12 +90,13 @@ def save_story_meta(story: dict, path: str = "story_meta.txt"):
 
 if __name__ == "__main__":
     story = get_one_story()
+    os.makedirs("output", exist_ok=True)
 
     if not story:
         print("No valid story found.")
     else:
-        save_story_txt(story, "story.txt")
-        save_story_meta(story, "story_meta.txt")
+        save_story_txt(story)
+        save_story_meta(story)
         print("Saved story.txt and story_meta.txt")
         print("Title:", story["title"])
         print("Chars:", len(story["body"]))
