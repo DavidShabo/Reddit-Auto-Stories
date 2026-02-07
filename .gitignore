@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environments ----
+venv/
+.env/
+.env.*
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Logs ----
+*.log
+
+# ---- Media / Outputs ----
+output/
+outputs/
+tmp/
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+# ---- FFmpeg temp files ----
+ffmpeg*.log
+
+# ---- Config with secrets ----
+config.toml
+.env
