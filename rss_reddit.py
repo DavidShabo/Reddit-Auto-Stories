@@ -31,7 +31,6 @@ def fetch_post_body(post_id: str):
     r = requests.get(url, headers=HEADERS, timeout=15)
 
     if r.status_code == 429:
-        # Back off if rate-limited
         time.sleep(8)
         return None
 
@@ -41,7 +40,6 @@ def fetch_post_body(post_id: str):
     post = r.json()[0]["data"]["children"][0]["data"]
     body = (post.get("selftext") or "").strip()
 
-    # Be polite to Reddit
     time.sleep(2)
 
     return body if body else None
