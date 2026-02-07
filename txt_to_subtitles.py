@@ -1,10 +1,9 @@
 from pathlib import Path
 
 INPUT_TXT = "output/story.txt"
-OUTPUT_SRT = "subtitles.srt"
-TOTAL_DURATION = 60.0  # seconds (fixed)
+OUTPUT_SRT = "output/subtitles.srt"
+TOTAL_DURATION = 60.0 
 
-# Read lines from txt
 lines = [
     line.strip()
     for line in Path(INPUT_TXT).read_text(encoding="utf-8", errors="ignore").splitlines()
