@@ -3,7 +3,7 @@ import time
 import feedparser
 import requests
 
-SUBREDDIT = "AmItheAsshole"   # ← change this only
+SUBREDDIT = "AmItheAsshole"   
 RSS_LIMIT = 20
 MIN_CHARS = 600
 MAX_CHARS = 2500
@@ -11,6 +11,16 @@ MAX_CHARS = 2500
 HEADERS = {
     "User-Agent": "reddit-rss-story-bot/0.1 (contact: dev@example.com)"
 }
+
+BLACKLIST_TITLE_KEYWORDS = [
+    "monthly",
+    "open forum",
+    "meta",
+    "megathread",
+    "announcement",
+    "discussion",
+    "weekly",
+]
 
 def extract_post_id(url: str):
     m = re.search(r"/comments/([a-z0-9]+)/", url)
@@ -42,6 +52,10 @@ def get_one_story():
     for entry in feed.entries[:RSS_LIMIT]:
         url = entry.link
         title = entry.title.strip()
+    
+        title_lower = title.lower()
+        if any(k in title_lower for k in BLACKLIST_TITLE_KEYWORDS):
+                continue
 
         post_id = extract_post_id(url)
         if not post_id:
@@ -64,17 +78,13 @@ def get_one_story():
     return None
 
 def save_story_txt(story: dict, path: str = "story.txt"):
-    """
-    Writes title + body into a plain text file for your TTS/subtitle/video pipeline.
-    """
+ 
     with open(path, "w", encoding="utf-8") as f:
         f.write(story["title"].strip() + "\n\n")
         f.write(story["body"].strip())
 
 def save_story_meta(story: dict, path: str = "story_meta.txt"):
-    """
-    Optional: saves the URL + id so you can track what was used.
-    """
+
     with open(path, "w", encoding="utf-8") as f:
         f.write(f"id: {story['id']}\n")
         f.write(f"url: {story['url']}\n")
