@@ -5,12 +5,11 @@ import VideoCard from "./VideoCard";
 import type { FeedVideo } from "./types";
 
 function mockPage(page: number): FeedVideo[] {
-  // Replace with real API fetch later
   return Array.from({ length: 6 }).map((_, i) => {
     const idx = page * 6 + i + 1;
     return {
       id: `V${String(idx).padStart(3, "0")}`,
-      videoUrl: "/sample.mp4", // put a sample in /public or use real URLs
+      videoUrl: "/output/final.mp4", 
       title: `Reddit Story #${idx}`,
       subreddit: "AITA",
       author: "some_throwaway",
@@ -28,7 +27,6 @@ export default function VideoFeed() {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
 
-  // infinite loader (when near bottom)
   useEffect(() => {
     if (!sentinelRef.current) return;
 
@@ -39,12 +37,9 @@ export default function VideoFeed() {
         setLoading(true);
         const next = page + 1;
 
-        // --- replace this with fetch() to your backend ---
-        // e.g. const res = await fetch(`/api/feed?page=${next}`)
-        // const data = await res.json()
+       
         await new Promise((r) => setTimeout(r, 250));
         const data = mockPage(next);
-        // -------------------------------------------------
 
         setItems((prev) => [...prev, ...data]);
         setPage(next);

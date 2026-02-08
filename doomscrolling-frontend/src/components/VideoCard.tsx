@@ -5,7 +5,7 @@ import type { FeedVideo } from "./types";
 import { useInView } from "./useInView";
 import DoomActionHud from "./DoomActionHud";
 
-const TOP_SAFE_PX = 64; // space for your fixed header text
+const TOP_SAFE_PX = 64; 
 
 export default function VideoCard({ item }: { item: FeedVideo }) {
   const videoRef = useRef<HTMLVideoElement | null>(null);
@@ -143,7 +143,6 @@ export default function VideoCard({ item }: { item: FeedVideo }) {
                   src={item.videoUrl}
                   playsInline
                   loop
-                  muted
                   preload="metadata"
                 />
               </button>

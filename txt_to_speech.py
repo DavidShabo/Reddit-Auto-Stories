@@ -2,6 +2,7 @@ import os
 import subprocess
 from dotenv import load_dotenv
 from elevenlabs.client import ElevenLabs
+from elevenlabs.play import play
 
 INPUT_AUDIO = "output/audio.wav"
 OUTPUT_AUDIO = "output/audio_fast.wav"
