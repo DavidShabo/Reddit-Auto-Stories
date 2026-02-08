@@ -3,7 +3,7 @@ import subprocess
 import re
 
 INPUT_TXT = "output/story.txt"
-AUDIO_FILE = "output/audio_fast.wav"
+AUDIO_FILE = "output/audio_fast.mp3"
 OUTPUT_SRT = "output/subtitles.srt"
 
 MAX_WORDS = 3

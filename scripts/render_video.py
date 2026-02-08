@@ -2,9 +2,9 @@ import subprocess
 import random
 import os
 
-AUDIO_FILE = "output/audio_fast.wav" 
+AUDIO_FILE = "output/audio_fast.mp3" 
 BACKGROUND_VIDEO = "backgrounds/background1.mp4"
-OUTPUT_VIDEO = "output/final.mp4"
+OUTPUT_VIDEO = r"C:\Users\dvdsh\Downloads\Reddit Auto Stories\doomscrolling-frontend\public\videos\final.mp4"
 SRT_FILE = "output/subtitles.srt"
 
 def get_duration(path: str) -> float:

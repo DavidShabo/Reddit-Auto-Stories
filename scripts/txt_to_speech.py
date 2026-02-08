@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 from elevenlabs.client import ElevenLabs
 from elevenlabs.play import play
 
-INPUT_AUDIO = "output/audio.wav"
-OUTPUT_AUDIO = "output/audio_fast.wav"
+INPUT_AUDIO = "output/audio.mp3"
+OUTPUT_AUDIO = "output/audio_fast.mp3"
 
 load_dotenv()
 
@@ -19,18 +19,18 @@ with open("output/story.txt", "r", encoding="utf-8") as f:
 
 audio_stream = client.text_to_speech.convert(
     text=text,
-    voice_id="inGcvmoPgbvKUk9uCvHu",
+    voice_id="pNInz6obpgDQGcFmaJgB",
     model_id="eleven_multilingual_v2",
-    output_format="wav_44100",
+    output_format="mp3_44100_128",
 )
 
-with open("output/audio.wav", "wb") as f:
+with open("output/audio.mp3", "wb") as f:
     for chunk in audio_stream:
         f.write(chunk)
         
 subprocess.run([
     "ffmpeg", "-y",
     "-i", INPUT_AUDIO,
-    "-filter:a", "atempo=1.4",
+    "-filter:a", "atempo=1.8",
     OUTPUT_AUDIO
 ], check=True)
