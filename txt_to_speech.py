@@ -30,6 +30,6 @@ with open("output/audio.wav", "wb") as f:
 subprocess.run([
     "ffmpeg", "-y",
     "-i", INPUT_AUDIO,
-    "-filter:a", "atempo=1.5",
+    "-filter:a", "atempo=1.4",
     OUTPUT_AUDIO
 ], check=True)

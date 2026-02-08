@@ -1,40 +1,628 @@
 1
-00:00:00,000 --> 00:00:06,000
-AITA for skipping my friend's daughter’s 1st birthday and charging her for the "gift" after she forgot to tell me the time changed?
+00:00:00,000 --> 00:00:00,900
+AITA for skipping
 
 2
-00:00:06,000 --> 00:00:12,000
-I’m feeling pretty heated right now and need some perspective.
+00:00:00,900 --> 00:00:01,800
+my friend's daughter’s
 
 3
-00:00:12,000 --> 00:00:18,000
-My friend’s daughter is turning one today. A few weeks ago, my friend asked if I could make truffles for the party. I agreed, and she mentioned she would reimburse me for the ingredients. However, because truffles are expensive to make and incredibly labor-intensive, I decided I would just gift them as the birthday present instead of asking for money.
+00:00:01,800 --> 00:00:02,668
+1st birthday and
 
 4
-00:00:18,000 --> 00:00:24,000
-I spent all day yesterday in the kitchen making these. I had to wake up super early this morning to finish the final touches and get ready for the 9 AM start time listed on the invitation.
+00:00:02,668 --> 00:00:03,536
+charging her for
 
 5
-00:00:24,000 --> 00:00:30,000
-I showed up at 9 AM sharp, truffles in hand, and the place was empty. I double-checked the invite and it definitely said 9 AM. I called my friend, and she casually told me that the time had been changed to the afternoon. She admitted she "forgot" to tell me, and apparently, I was the only guest who wasn't notified.
+00:00:03,536 --> 00:00:04,405
+the "gift" after
 
 6
-00:00:30,000 --> 00:00:36,000
-After working so hard yesterday and sacrificing my Saturday morning sleep, I was (and am) pissed. I havent told her if ai can make it in the afternoon yet
+00:00:04,405 --> 00:00:05,110
+she forgot to
 
 7
-00:00:36,000 --> 00:00:42,000
-WIBTA if I charge her the full amount for the ingredients and my time since I might no longer be attending and these were meant to be the “gift” or refuse to go to the afternoon session because I’ve already wasted my morning and now I "have other plans" (which is mostly just being too annoyed to celebrate)?
+00:00:05,110 --> 00:00:05,707
+tell me the
 
 8
-00:00:42,000 --> 00:00:48,000
-EDIT: I did not tell her I would gift her the truffles, I had just decided that myself
+00:00:05,707 --> 00:00:06,607
+time changed? I’m
 
 9
-00:00:48,000 --> 00:00:54,000
-EDIT: A lot of people are asking for more context so here it goes. We moved to a new city last year so I’ve been trying hard to make new friends and I’ve been hanging out with this friend and some of her friends, but I’m not “in” their little group yet. I’m a very helpful person in general and have a lot of party planning experience, so I actually helped her decide many aspects of the party, like how much food, what types of food, how many drinks, etc.
+00:00:06,607 --> 00:00:07,507
+feeling pretty heated
 
 10
-00:00:54,000 --> 00:01:00,000
-We were exchanging info back and forth about this party constantly and I even lent her a bunch of my own decor stuff to use for the cake table. Also, she specifically chose 9 am because that’s when her daughter is most alert and happiest, so this was supposed to be a brunch type birthday party. Given how much we talked about the details and the fact that she has my decor, I really don't feel like this was an easy thing to "forget."
+00:00:07,507 --> 00:00:08,212
+right now and
+
+11
+00:00:08,212 --> 00:00:09,112
+need some perspective.
+
+12
+00:00:09,112 --> 00:00:10,012
+My friend’s daughter
+
+13
+00:00:10,012 --> 00:00:10,772
+is turning one
+
+14
+00:00:10,772 --> 00:00:11,423
+today. A few
+
+15
+00:00:11,423 --> 00:00:12,128
+weeks ago, my
+
+16
+00:00:12,128 --> 00:00:12,942
+friend asked if
+
+17
+00:00:12,942 --> 00:00:13,593
+I could make
+
+18
+00:00:13,593 --> 00:00:14,461
+truffles for the
+
+19
+00:00:14,461 --> 00:00:15,330
+party. I agreed,
+
+20
+00:00:15,330 --> 00:00:16,230
+and she mentioned
+
+21
+00:00:16,230 --> 00:00:17,130
+she would reimburse
+
+22
+00:00:17,130 --> 00:00:17,672
+me for the
+
+23
+00:00:17,672 --> 00:00:18,572
+ingredients. However, because
+
+24
+00:00:18,572 --> 00:00:19,472
+truffles are expensive
+
+25
+00:00:19,472 --> 00:00:20,069
+to make and
+
+26
+00:00:20,069 --> 00:00:20,969
+incredibly labor-intensive, I
+
+27
+00:00:20,969 --> 00:00:21,783
+decided I would
+
+28
+00:00:21,783 --> 00:00:22,543
+just gift them
+
+29
+00:00:22,543 --> 00:00:23,357
+as the birthday
+
+30
+00:00:23,357 --> 00:00:24,257
+present instead of
+
+31
+00:00:24,257 --> 00:00:25,157
+asking for money.
+
+32
+00:00:25,157 --> 00:00:25,754
+I spent all
+
+33
+00:00:25,754 --> 00:00:26,622
+day yesterday in
+
+34
+00:00:26,622 --> 00:00:27,522
+the kitchen making
+
+35
+00:00:27,522 --> 00:00:28,173
+these. I had
+
+36
+00:00:28,173 --> 00:00:28,715
+to wake up
+
+37
+00:00:28,715 --> 00:00:29,584
+super early this
+
+38
+00:00:29,584 --> 00:00:30,484
+morning to finish
+
+39
+00:00:30,484 --> 00:00:31,384
+the final touches
+
+40
+00:00:31,384 --> 00:00:32,089
+and get ready
+
+41
+00:00:32,089 --> 00:00:32,577
+for the 9
+
+42
+00:00:32,577 --> 00:00:33,283
+AM start time
+
+43
+00:00:33,283 --> 00:00:33,988
+listed on the
+
+44
+00:00:33,988 --> 00:00:34,888
+invitation. I showed
+
+45
+00:00:34,888 --> 00:00:35,268
+up at 9
+
+46
+00:00:35,268 --> 00:00:36,168
+AM sharp, truffles
+
+47
+00:00:36,168 --> 00:00:36,819
+in hand, and
+
+48
+00:00:36,819 --> 00:00:37,525
+the place was
+
+49
+00:00:37,525 --> 00:00:38,425
+empty. I double-checked
+
+50
+00:00:38,425 --> 00:00:39,184
+the invite and
+
+51
+00:00:39,184 --> 00:00:40,084
+it definitely said
+
+52
+00:00:40,084 --> 00:00:40,464
+9 AM. I
+
+53
+00:00:40,464 --> 00:00:41,364
+called my friend,
+
+54
+00:00:41,364 --> 00:00:42,232
+and she casually
+
+55
+00:00:42,232 --> 00:00:42,883
+told me that
+
+56
+00:00:42,883 --> 00:00:43,534
+the time had
+
+57
+00:00:43,534 --> 00:00:44,348
+been changed to
+
+58
+00:00:44,348 --> 00:00:45,248
+the afternoon. She
+
+59
+00:00:45,248 --> 00:00:46,148
+admitted she "forgot"
+
+60
+00:00:46,148 --> 00:00:46,745
+to tell me,
+
+61
+00:00:46,745 --> 00:00:47,645
+and apparently, I
+
+62
+00:00:47,645 --> 00:00:48,296
+was the only
+
+63
+00:00:48,296 --> 00:00:49,165
+guest who wasn't
+
+64
+00:00:49,165 --> 00:00:50,065
+notified. After working
+
+65
+00:00:50,065 --> 00:00:50,965
+so hard yesterday
+
+66
+00:00:50,965 --> 00:00:51,865
+and sacrificing my
+
+67
+00:00:51,865 --> 00:00:52,765
+Saturday morning sleep,
+
+68
+00:00:52,765 --> 00:00:53,307
+I was (and
+
+69
+00:00:53,307 --> 00:00:54,013
+am) pissed. I
+
+70
+00:00:54,013 --> 00:00:54,827
+havent told her
+
+71
+00:00:54,827 --> 00:00:55,315
+if ai can
+
+72
+00:00:55,315 --> 00:00:55,858
+make it in
+
+73
+00:00:55,858 --> 00:00:56,758
+the afternoon yet
+
+74
+00:00:56,758 --> 00:00:57,300
+WIBTA if I
+
+75
+00:00:57,300 --> 00:00:58,060
+charge her the
+
+76
+00:00:58,060 --> 00:00:58,874
+full amount for
+
+77
+00:00:58,874 --> 00:00:59,774
+the ingredients and
+
+78
+00:00:59,774 --> 00:01:00,479
+my time since
+
+79
+00:01:00,479 --> 00:01:01,022
+I might no
+
+80
+00:01:01,022 --> 00:01:01,922
+longer be attending
+
+81
+00:01:01,922 --> 00:01:02,681
+and these were
+
+82
+00:01:02,681 --> 00:01:03,278
+meant to be
+
+83
+00:01:03,278 --> 00:01:03,983
+the “gift” or
+
+84
+00:01:03,983 --> 00:01:04,635
+refuse to go
+
+85
+00:01:04,635 --> 00:01:05,503
+to the afternoon
+
+86
+00:01:05,503 --> 00:01:06,403
+session because I’ve
+
+87
+00:01:06,403 --> 00:01:07,303
+already wasted my
+
+88
+00:01:07,303 --> 00:01:08,117
+morning and now
+
+89
+00:01:08,117 --> 00:01:08,822
+I "have other
+
+90
+00:01:08,822 --> 00:01:09,690
+plans" (which is
+
+91
+00:01:09,690 --> 00:01:10,590
+mostly just being
+
+92
+00:01:10,590 --> 00:01:11,350
+too annoyed to
+
+93
+00:01:11,350 --> 00:01:12,250
+celebrate)? EDIT: I
+
+94
+00:01:12,250 --> 00:01:12,901
+did not tell
+
+95
+00:01:12,901 --> 00:01:13,498
+her I would
+
+96
+00:01:13,498 --> 00:01:14,149
+gift her the
+
+97
+00:01:14,149 --> 00:01:14,963
+truffles, I had
+
+98
+00:01:14,963 --> 00:01:15,863
+just decided that
+
+99
+00:01:15,863 --> 00:01:16,622
+myself EDIT: A
+
+100
+00:01:16,622 --> 00:01:17,328
+lot of people
+
+101
+00:01:17,328 --> 00:01:18,087
+are asking for
+
+102
+00:01:18,087 --> 00:01:18,901
+more context so
+
+103
+00:01:18,901 --> 00:01:19,607
+here it goes.
+
+104
+00:01:19,607 --> 00:01:20,203
+We moved to
+
+105
+00:01:20,203 --> 00:01:20,746
+a new city
+
+106
+00:01:20,746 --> 00:01:21,397
+last year so
+
+107
+00:01:21,397 --> 00:01:22,265
+I’ve been trying
+
+108
+00:01:22,265 --> 00:01:22,916
+hard to make
+
+109
+00:01:22,916 --> 00:01:23,730
+new friends and
+
+110
+00:01:23,730 --> 00:01:24,630
+I’ve been hanging
+
+111
+00:01:24,630 --> 00:01:25,336
+out with this
+
+112
+00:01:25,336 --> 00:01:26,149
+friend and some
+
+113
+00:01:26,149 --> 00:01:26,963
+of her friends,
+
+114
+00:01:26,963 --> 00:01:27,560
+but I’m not
+
+115
+00:01:27,560 --> 00:01:28,460
+“in” their little
+
+116
+00:01:28,460 --> 00:01:29,220
+group yet. I’m
+
+117
+00:01:29,220 --> 00:01:29,979
+a very helpful
+
+118
+00:01:29,979 --> 00:01:30,879
+person in general
+
+119
+00:01:30,879 --> 00:01:31,422
+and have a
+
+120
+00:01:31,422 --> 00:01:32,073
+lot of party
+
+121
+00:01:32,073 --> 00:01:32,973
+planning experience, so
+
+122
+00:01:32,973 --> 00:01:33,873
+I actually helped
+
+123
+00:01:33,873 --> 00:01:34,687
+her decide many
+
+124
+00:01:34,687 --> 00:01:35,447
+aspects of the
+
+125
+00:01:35,447 --> 00:01:36,261
+party, like how
+
+126
+00:01:36,261 --> 00:01:37,074
+much food, what
+
+127
+00:01:37,074 --> 00:01:37,834
+types of food,
+
+128
+00:01:37,834 --> 00:01:38,702
+how many drinks,
+
+129
+00:01:38,702 --> 00:01:39,353
+etc. We were
+
+130
+00:01:39,353 --> 00:01:40,253
+exchanging info back
+
+131
+00:01:40,253 --> 00:01:41,067
+and forth about
+
+132
+00:01:41,067 --> 00:01:41,967
+this party constantly
+
+133
+00:01:41,967 --> 00:01:42,510
+and I even
+
+134
+00:01:42,510 --> 00:01:43,052
+lent her a
+
+135
+00:01:43,052 --> 00:01:43,649
+bunch of my
+
+136
+00:01:43,649 --> 00:01:44,463
+own decor stuff
+
+137
+00:01:44,463 --> 00:01:45,006
+to use for
+
+138
+00:01:45,006 --> 00:01:45,820
+the cake table.
+
+139
+00:01:45,820 --> 00:01:46,720
+Also, she specifically
+
+140
+00:01:46,720 --> 00:01:47,262
+chose 9 am
+
+141
+00:01:47,262 --> 00:01:48,162
+because that’s when
+
+142
+00:01:48,162 --> 00:01:48,976
+her daughter is
+
+143
+00:01:48,976 --> 00:01:49,736
+most alert and
+
+144
+00:01:49,736 --> 00:01:50,636
+happiest, so this
+
+145
+00:01:50,636 --> 00:01:51,450
+was supposed to
+
+146
+00:01:51,450 --> 00:01:52,046
+be a brunch
+
+147
+00:01:52,046 --> 00:01:52,947
+type birthday party.
+
+148
+00:01:52,947 --> 00:01:53,706
+Given how much
+
+149
+00:01:53,706 --> 00:01:54,520
+we talked about
+
+150
+00:01:54,520 --> 00:01:55,334
+the details and
+
+151
+00:01:55,334 --> 00:01:56,039
+the fact that
+
+152
+00:01:56,039 --> 00:01:56,582
+she has my
+
+153
+00:01:56,582 --> 00:01:57,396
+decor, I really
+
+154
+00:01:57,396 --> 00:01:58,210
+don't feel like
+
+155
+00:01:58,210 --> 00:01:58,806
+this was an
+
+156
+00:01:58,806 --> 00:01:59,512
+easy thing to
+
+157
+00:01:59,512 --> 00:01:60,000
+"forget."
 

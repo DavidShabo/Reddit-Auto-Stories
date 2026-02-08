@@ -2,7 +2,7 @@ import subprocess
 import random
 import os
 
-AUDIO_FILE = "test.wav" ##MAKE THIS NAME AUDIO.WAV AFTER
+AUDIO_FILE = "output/audio_fast.wav" 
 BACKGROUND_VIDEO = "backgrounds/background1.mp4"
 OUTPUT_VIDEO = "output/final.mp4"
 SRT_FILE = "output/subtitles.srt"
